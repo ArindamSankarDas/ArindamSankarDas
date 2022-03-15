@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArindamSankarDas
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : @arindam_sankar_das(instagram) || arindamshankardas489@gmail.com(email)
 
 <!---
