@@ -9,7 +9,7 @@ It's already been a couple of years since I started my Developer journey and up 
 * 🌍  I'm based in Tezpur, Assam
 * 🖥️  See my portfolio at [My Portfolio](http://website-portfolio-2-0.vercel.app/)
 * ✉️  You can contact me at [arindamshankardas489@gmail.com](mailto:arindamshankardas489@gmail.com)
-* 🧠  I'm learning version control with git
+* 🧠  I'm learning version control with git and github
 
 ### Skills
 
