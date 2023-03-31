@@ -6,10 +6,13 @@ Frontend Developer
 
 It's already been a couple of years since I started my Developer journey and up till now, I have learned so much. But there is so much more to learn ahead and as I have been progressing I thought maybe it's time I started applying for internships and jobs to gain real-world experience directly from the experts. For programming aspects I have decided to start getting a little bit into backend development to widen my skillset.
 
-*   🌍  I'm based in Tezpur, Assam
-*   🖥️  See my portfolio at [My Portfolio](http://website-portfolio-2-0.vercel.app/)
-*   ✉️  You can contact me at [arindamshankardas489@gmail.com](mailto:arindamshankardas489@gmail.com)
-*   🧠  I'm learning version control with git### Skills 
+* 🌍  I'm based in Tezpur, Assam
+* 🖥️  See my portfolio at [My Portfolio](http://website-portfolio-2-0.vercel.app/)
+* ✉️  You can contact me at [arindamshankardas489@gmail.com](mailto:arindamshankardas489@gmail.com)
+* 🧠  I'm learning version control with git
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -23,20 +26,18 @@ It's already been a couple of years since I started my Developer journey and up 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/FlexBuddy#4293" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/ArindamSankarDas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/arindam_sankar_das/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/arindam-sankar-das-998523220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/ArindamSankarDas"><img src="https://github-readme-stats.vercel.app/api?username=ArindamSankarDas&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArindamSankarDas's GitHub stats" /></a><a
-                      href="http://www.github.com/ArindamSankarDas"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=ArindamSankarDas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/ArindamSankarDas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArindamSankarDas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/ArindamSankarDas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamSankarDas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/FlexBuddy#4293" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ArindamSankarDas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arindam_sankar_das/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arindam-sankar-das-998523220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ArindamSankarDas"><img src="https://github-readme-stats.vercel.app/api?username=ArindamSankarDas&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArindamSankarDas's GitHub stats" /></a>
+
+<a href="http://www.github.com/ArindamSankarDas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArindamSankarDas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/ArindamSankarDas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArindamSankarDas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/ArindamSankarDas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamSankarDas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
