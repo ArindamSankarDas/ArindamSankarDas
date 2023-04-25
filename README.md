@@ -7,7 +7,7 @@ Frontend Developer
 It's already been a couple of years since I started my Developer journey and up till now, I have learned so much. But there is so much more to learn ahead and as I have been progressing I thought maybe it's time I started applying for internships and jobs to gain real-world experience directly from the experts. For programming aspects I have decided to start getting a little bit into backend development to widen my skillset.
 
 * 🌍  I'm based in Tezpur, Assam
-* 🖥️  See my portfolio at [My Portfolio](http://website-portfolio-2-0.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://arindam-sankar-das.vercel.app/)
 * ✉️  You can contact me at [arindamshankardas489@gmail.com](mailto:arindamshankardas489@gmail.com)
 * 🧠  I'm learning version control with git and github
 
@@ -24,8 +24,6 @@ It's already been a couple of years since I started my Developer journey and up 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
 
 ### Socials
 
