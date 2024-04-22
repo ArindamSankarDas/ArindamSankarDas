@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arindam Sankar Das
 ==========================================================================================================================================
-<a href="https://app.daily.dev/flexxyboi"><img src="https://api.daily.dev/devcards/v2/kTCslEXSsNQO2K4Al1Brd.png?r=ist&type=default" width="356" alt="Arindam Sankar Das's Dev Card"/></a>
+<a href="https://app.daily.dev/flexxyboi"><img src="./devcard.png" width="356" alt="Arindam Sankar Das's Dev Card"/></a>
 
 Full-stack Developer
 ------------------
