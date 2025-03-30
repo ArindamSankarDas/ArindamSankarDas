@@ -7,7 +7,7 @@ Backend Developer
 A chill Junior Backend Dev
 
 * 🌍  I'm based in Tezpur, Assam
-* 🖥️  See my portfolio at [My Portfolio](https://arindam-sankar-das.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://arindamsankardas.dev/)
 * ✉️  You can contact me at [arindamshankardas489@gmail.com](mailto:arindamshankardas489@gmail.com)
 * 🧠  I'm learning version control with git and github
 
