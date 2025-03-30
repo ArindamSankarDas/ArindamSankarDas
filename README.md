@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arindam Sankar Das
-==========================================================================================================================================
-<a href="https://app.daily.dev/flexxyboi"><img src="./devcard.png" width="356" alt="Arindam Sankar Das's Dev Card"/></a>
+=========================================================================================================================================
 
-Full-stack Developer
+Backend Developer
 ------------------
 
-It's already been a couple of years since I started my Developer journey and up till now, I have learned so much. But there is so much more to learn ahead and as I have been progressing I thought maybe it's time I started applying for internships and jobs to gain real-world experience directly from the experts. For programming aspects I have decided to start getting a little bit into backend development to widen my skillset.
+A chill Junior Backend Dev
 
 * 🌍  I'm based in Tezpur, Assam
 * 🖥️  See my portfolio at [My Portfolio](https://arindam-sankar-das.vercel.app/)
